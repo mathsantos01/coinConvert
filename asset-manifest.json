@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mathsantos01/coinConvert/static/css/main.3f9cdf6f.chunk.css",
-    "main.js": "/mathsantos01/coinConvert/static/js/main.6b556477.chunk.js",
-    "main.js.map": "/mathsantos01/coinConvert/static/js/main.6b556477.chunk.js.map",
-    "runtime-main.js": "/mathsantos01/coinConvert/static/js/runtime-main.effc1fe9.js",
-    "runtime-main.js.map": "/mathsantos01/coinConvert/static/js/runtime-main.effc1fe9.js.map",
-    "static/js/2.eb5f691b.chunk.js": "/mathsantos01/coinConvert/static/js/2.eb5f691b.chunk.js",
-    "static/js/2.eb5f691b.chunk.js.map": "/mathsantos01/coinConvert/static/js/2.eb5f691b.chunk.js.map",
-    "index.html": "/mathsantos01/coinConvert/index.html",
-    "precache-manifest.76162868b44cd96582ef0f97e312c9eb.js": "/mathsantos01/coinConvert/precache-manifest.76162868b44cd96582ef0f97e312c9eb.js",
-    "service-worker.js": "/mathsantos01/coinConvert/service-worker.js",
-    "static/css/main.3f9cdf6f.chunk.css.map": "/mathsantos01/coinConvert/static/css/main.3f9cdf6f.chunk.css.map",
-    "static/js/2.eb5f691b.chunk.js.LICENSE.txt": "/mathsantos01/coinConvert/static/js/2.eb5f691b.chunk.js.LICENSE.txt"
+    "main.css": "/coinConvert/static/css/main.3f9cdf6f.chunk.css",
+    "main.js": "/coinConvert/static/js/main.6b556477.chunk.js",
+    "main.js.map": "/coinConvert/static/js/main.6b556477.chunk.js.map",
+    "runtime-main.js": "/coinConvert/static/js/runtime-main.22b71336.js",
+    "runtime-main.js.map": "/coinConvert/static/js/runtime-main.22b71336.js.map",
+    "static/js/2.eb5f691b.chunk.js": "/coinConvert/static/js/2.eb5f691b.chunk.js",
+    "static/js/2.eb5f691b.chunk.js.map": "/coinConvert/static/js/2.eb5f691b.chunk.js.map",
+    "index.html": "/coinConvert/index.html",
+    "precache-manifest.904fd35857c095734138728ec7e0179d.js": "/coinConvert/precache-manifest.904fd35857c095734138728ec7e0179d.js",
+    "service-worker.js": "/coinConvert/service-worker.js",
+    "static/css/main.3f9cdf6f.chunk.css.map": "/coinConvert/static/css/main.3f9cdf6f.chunk.css.map",
+    "static/js/2.eb5f691b.chunk.js.LICENSE.txt": "/coinConvert/static/js/2.eb5f691b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.effc1fe9.js",
+    "static/js/runtime-main.22b71336.js",
     "static/js/2.eb5f691b.chunk.js",
     "static/css/main.3f9cdf6f.chunk.css",
     "static/js/main.6b556477.chunk.js"
