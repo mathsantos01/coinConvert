@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2? family = Roboto + Slab: wght @ 100; 200; 300; 400; 500; 500; 600; 700; 800; 900 & display = swap' );
+
+*{
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+
+
+.cor{
+    background-color:  #d3d3d3;
+}
+
+
+.centralizar{
+
+    width: 310px;
+    height: 180px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+}
+
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.select{
+    background-color: DodgerBlue;
+    color: #ffffff;
+    border-color: #fff transparent transparent transparent;
+  }
+
+.texto{
+    position: relative;
+    left: 520px;
+}
+.texto2{
+    position: relative;
+    left: 520px;
+    bottom:10px;
+    
+}
